@@ -1,0 +1,6 @@
+.idea/
+out/
+connect-four-game-assignment-3.0.0/target/
+shade/
+
+*.iml
